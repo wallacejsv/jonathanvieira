@@ -1,0 +1,5 @@
+@media (min-width: 320px) and (max-width: 728px) {
+	body #wrapper #content article .content-timeline-timel {
+		margin-top: 0 !important;
+	}
+}
