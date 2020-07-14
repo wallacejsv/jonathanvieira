@@ -22,7 +22,7 @@
 				<img src="https://secure.gravatar.com/avatar/d17fcc3d9630f041d7e89e9a82953361?s=96&d=mm&r=g"/>
 				<div class="name-post-author">
 					<h2><?php echo get_the_author(); ?></h2>
-					<span><a href="https://instagram.com/congrega_" target="_blank">@congrega_</a> - <?php the_date(); ?></span>
+					<span><a href="https://instagram.com/jonathanvieiira" target="_blank">@jonathanvieiira</a> - <?php the_date(); ?></span>
 				</div>
 			</div>
 
