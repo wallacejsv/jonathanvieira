@@ -19,9 +19,7 @@ get_header(); ?>
 
 		<div class="title-top-timeline">
 			<div class="item">
-				<a href="<?php echo home_url('/'); ?>">
-					<img class="logo" src="<?php echo get_template_directory_uri(); ?>/assets/images/logo-bigode.svg">
-				</a>
+				
 			</div>
 			<div class="item">
 				<div class="hamburguer-nav">
